@@ -1,0 +1,1 @@
+ssh -i RGDEV.pem ubuntu@ec2-54-221-53-181.compute-1.amazonaws.com
